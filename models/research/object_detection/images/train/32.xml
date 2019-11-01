@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>32.jpg</filename>
+	<path>C:\Users\Yash\Downloads\New folder\32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>217</ymin>
+			<xmax>488</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

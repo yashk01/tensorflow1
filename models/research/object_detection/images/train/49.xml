@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_images</folder>
+	<filename>49.jpeg</filename>
+	<path>C:\Users\hp\Desktop\test_images\49.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>668</ymin>
+			<xmax>914</xmax>
+			<ymax>1139</ymax>
+		</bndbox>
+	</object>
+</annotation>
