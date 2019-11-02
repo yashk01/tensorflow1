@@ -46,6 +46,7 @@ import json
 import os
 import tensorflow as tf
 os.chdir("..")
+print(os.cwd())
 
 from object_detection.builders import dataset_builder
 from object_detection.builders import graph_rewriter_builder
@@ -54,7 +55,7 @@ from object_detection.legacy import trainer
 from object_detection.utils import config_util
 
 os.chdir("object_detection")
-
+print(os.cwd())
 
 tf.logging.set_verbosity(tf.logging.INFO)
 
